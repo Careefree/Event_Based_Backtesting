@@ -6,4 +6,4 @@ will retrive and prepare data, helper/convenience functions, place orders, and c
 Operation is simple choose to run backtest_long_only.py or backtest_long_short.py and performance information will be printed in the terminal.
 
 * Note if using Bitstamp data the price action is too volitaile and dosent work well for this strategy please update backtest_base.py with the AUDUSD=X.csv to see
-a better representation of this particular strategy *
+a better representation of this particular strategy 
